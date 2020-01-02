@@ -1,0 +1,8 @@
+toto je nejdelsi radek ze vsech, protoze to tak je!
+Test nacitani slov, mezera .
+9
+Devet je taky znak
+Hello, World!
+
+Nade mnou je prazdno.
+what?
